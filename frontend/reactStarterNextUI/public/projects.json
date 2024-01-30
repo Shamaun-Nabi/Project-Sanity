@@ -1,0 +1,73 @@
+[
+    {
+      "id": "a1e7b34d-9f3c-4f20-9a73-5986950a1f87",
+      "name": "Project One",
+      "image": "project1.jpg",
+      "githublink": "https://github.com/user/project-one",
+      "livelink": "https://project-one-live.com"
+    },
+    {
+      "id": "b85a69c2-1833-43e7-8f04-07fb6a2e90f4",
+      "name": "Awesome App",
+      "image": "awesome_app.png",
+      "githublink": "https://github.com/user/awesome-app",
+      "livelink": "https://awesome-app-live.com"
+    },
+    {
+      "id": "c2f93f24-6080-4461-b50a-aa0e1fcdf6d7",
+      "name": "Code Explorer",
+      "image": "code_explorer.gif",
+      "githublink": "https://github.com/user/code-explorer",
+      "livelink": "https://code-explorer-live.com"
+    },
+    {
+      "id": "d40ea7c9-6c3b-4aa7-8ff4-6bc53b4bfa62",
+      "name": "DataViz Pro",
+      "image": "dataviz_pro.png",
+      "githublink": "https://github.com/user/dataviz-pro",
+      "livelink": "https://dataviz-pro-live.com"
+    },
+    {
+      "id": "e5f5fe4f-4c13-4fe8-831b-5e5e4627e15f",
+      "name": "Social Network",
+      "image": "social_network.jpg",
+      "githublink": "https://github.com/user/social-network",
+      "livelink": "https://social-network-live.com"
+    },
+    {
+      "id": "f0d5e8e6-2090-4c47-801b-c0560b7ce11d",
+      "name": "Task Manager",
+      "image": "task_manager.png",
+      "githublink": "https://github.com/user/task-manager",
+      "livelink": "https://task-manager-live.com"
+    },
+    {
+      "id": "gde2c11d-7cb8-4e4d-ae06-4398e581c736",
+      "name": "Portfolio Website",
+      "image": "portfolio_website.png",
+      "githublink": "https://github.com/user/portfolio-website",
+      "livelink": "https://portfolio-website-live.com"
+    },
+    {
+      "id": "h31a5b6b-8e58-4c74-98fe-84c3d2ce1a7f",
+      "name": "E-commerce Platform",
+      "image": "ecommerce_platform.jpg",
+      "githublink": "https://github.com/user/ecommerce-platform",
+      "livelink": "https://ecommerce-platform-live.com"
+    },
+    {
+      "id": "i9c42367-c3d2-4235-aae0-bd5e7f0cf18d",
+      "name": "Weather App",
+      "image": "weather_app.png",
+      "githublink": "https://github.com/user/weather-app",
+      "livelink": "https://weather-app-live.com"
+    },
+    {
+      "id": "j7f12b09-efdb-4b55-9180-1b4c4cfd9446",
+      "name": "Blog Platform",
+      "image": "blog_platform.jpg",
+      "githublink": "https://github.com/user/blog-platform",
+      "livelink": "https://blog-platform-live.com"
+    }
+  ]
+  

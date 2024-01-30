@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "image": "image1.jpg",
+      "name": "Product 1",
+      "description": "This is the description for Product 1.",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "image": "image2.jpg",
+      "name": "Product 2",
+      "description": "Description for Product 2.",
+      "category": "Clothing"
+    },
+    {
+      "id": 3,
+      "image": "image3.jpg",
+      "name": "Product 3",
+      "description": "Details about Product 3.",
+      "category": "Home & Kitchen"
+    },
+    {
+      "id": 4,
+      "image": "pic1.png",
+      "name": "Item A",
+      "description": "Description for Item A.",
+      "category": "Toys"
+    },
+    {
+      "id": 5,
+      "image": "pic2.png",
+      "name": "Item B",
+      "description": "This is the description for Item B.",
+      "category": "Books"
+    },
+    {
+      "id": 6,
+      "image": "pic3.png",
+      "name": "Item C",
+      "description": "Details about Item C.",
+      "category": "Sports & Outdoors"
+    },
+    {
+      "id": 7,
+      "image": "img1.jpg",
+      "name": "Service X",
+      "description": "Service X description goes here.",
+      "category": "Services"
+    },
+    {
+      "id": 8,
+      "image": "img2.jpg",
+      "name": "Service Y",
+      "description": "Detailed description for Service Y.",
+      "category": "Technology"
+    },
+    {
+      "id": 9,
+      "image": "img3.jpg",
+      "name": "Service Z",
+      "description": "Description for Service Z.",
+      "category": "Health"
+    },
+    {
+      "id": 10,
+      "image": "picture1.jpg",
+      "name": "Item 1",
+      "description": "Description for Item 1.",
+      "category": "Furniture"
+    },
+    {
+      "id": 11,
+      "image": "picture2.jpg",
+      "name": "Item 2",
+      "description": "This is the description for Item 2.",
+      "category": "Appliances"
+    },
+    {
+      "id": 12,
+      "image": "picture3.jpg",
+      "name": "Item 3",
+      "description": "Details about Item 3.",
+      "category": "Beauty & Personal Care"
+    },
+    {
+      "id": 13,
+      "image": "photo1.jpg",
+      "name": "Product A",
+      "description": "Product A description.",
+      "category": "Fashion"
+    },
+    {
+      "id": 14,
+      "image": "photo2.jpg",
+      "name": "Product B",
+      "description": "Description for Product B.",
+      "category": "Jewelry"
+    },
+    {
+      "id": 15,
+      "image": "photo3.jpg",
+      "name": "Product C",
+      "description": "Details about Product C.",
+      "category": "Garden & Outdoor"
+    }
+  ]
+  
